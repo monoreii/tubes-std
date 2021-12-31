@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640910932 source:c:\users\naufa\documents\cpp\tubes6\main.cpp
+	"multi.h"
+
+1640911191 c:\users\naufa\documents\cpp\tubes6\multi.h
+	<iostream>
+
