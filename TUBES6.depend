@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1640910932 source:c:\users\naufa\documents\cpp\tubes6\main.cpp
+1641135590 source:c:\users\naufa\documents\cpp\tubes6\main.cpp
 	"multi.h"
 
-1640911191 c:\users\naufa\documents\cpp\tubes6\multi.h
+1641135210 c:\users\naufa\documents\cpp\tubes6\multi.h
 	<iostream>
+
+1641135433 source:c:\users\naufa\documents\cpp\tubes6\multi.cpp
+	"multi.h"
 
